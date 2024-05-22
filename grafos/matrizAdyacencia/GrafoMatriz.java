@@ -1,4 +1,4 @@
-package grafos;
+package grafos.matrizAdyacencia;
 import colas.Cola;
 import pilas.Pila;
 
